@@ -117,6 +117,9 @@ img#natacao{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+img#corrida{
+
+}
 p.jogosp{
     width: 190px;
     display: inline-block;
@@ -124,34 +127,42 @@ p.jogosp{
 }
 /*Diminuição da fonte de cada parágrafo*/
 p#jogo{
-    font-size: 0.6em;
+    font-size: 0.5em;
     font-weight: bolder;
     text-align: justify;
     width: 210px;
     position: absolute;
-    top: 80px;
+    top: 85px;
 }
 p#baseball{
-    font-size: 0.6em;
+    font-size: 0.5em;
     font-weight: bolder;
     text-align: justify;
     width: 210px;
     position: absolute;
-    top: 200px;
+    top: 210px;
 }
 p#ciclismo{
-    font-size: 0.6em;
+    font-size: 0.5em;
     font-weight: bolder;
     text-align: justify;
     width: 215px;
     position: absolute;
-    top: 320px;
+    top: 340px;
 }
 p#natacao{
-    font-size: 0.6em;
+    font-size: 0.5em;
     position: absolute;
     font-weight: bolder;
-    bottom: 23px;
+    bottom: 215px;
+    text-align: justify;
+    width: 215px;
+}
+p#corrida{
+    font-size: 0.5em;
+    position: absolute;
+    font-weight: bolder;
+    bottom: 20px;
     text-align: justify;
     width: 215px;
 }

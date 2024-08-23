@@ -100,9 +100,17 @@ Grandes telas : acima de 1200px
     p#natacao{
         font-size: 0.9em;
         position: absolute;
-        bottom: 55px;
+        bottom: 345px;
         text-align: justify;
-        width: 350px;
+        width: 358px;
+    }
+    p#corrida{
+        font-size: 0.9em;
+        position: absolute;
+        font-weight: bolder;
+        bottom: 40px;
+        text-align: justify;
+        width: 355px;
     }
 }
 
@@ -191,11 +199,18 @@ Grandes telas : acima de 1200px
     p#natacao{
         font-size: 1.0em;
         position: absolute;
-        bottom: 50px;
+        bottom: 350px;
         text-align: justify;
         width: 550px;
     }
-    
+    p#corrida{
+        font-size: 1.0em;
+        position: absolute;
+        font-weight: bolder;
+        bottom: 40px;
+        text-align: justify;
+        width: 555px;
+    }
 }
 
 /*Monitor*/
@@ -284,9 +299,17 @@ Grandes telas : acima de 1200px
     p#natacao{
         font-size: 1.4em;
         position: absolute;
-        bottom: 50px;
+        bottom: 450px;
         text-align: justify;
         width: 515px;
+    }
+    p#corrida{
+        font-size: 1.4em;
+        position: absolute;
+        font-weight: bolder;
+        bottom: 50px;
+        text-align: justify;
+        width: 555px;
     }
 }
 /*Telas maiores que 1550px*/
@@ -383,11 +406,20 @@ Grandes telas : acima de 1200px
     p#natacao{
         font-size: 1.6em;
         position: absolute;
-        bottom: 95px;
+        bottom: 600px;
         text-align: justify;
         width: 535px;
         font-weight: normal;
         color: var(--cor5);
+    }
+    p#corrida{
+        font-size: 1.7em;
+        position: absolute;
+        font-weight: bolder;
+        bottom: 50px;
+        text-align: justify;
+        font-weight: normal;
+        width: 560px;
     }
     img#natacao{
         margin-bottom: 30px;
@@ -416,4 +448,5 @@ Grandes telas : acima de 1200px
         text-decoration: none;
         font-variant: small-caps;
     }
+    
 }
