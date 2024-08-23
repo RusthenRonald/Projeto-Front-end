@@ -15,7 +15,7 @@
     --cor5: #063d1e;
 }
 body,html{
-    
+        scroll-behavior: smooth;
 }
 header{
     background-image: linear-gradient(to top, var(--cor3) , var(--cor5));
