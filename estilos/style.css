@@ -82,6 +82,14 @@ main{
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.473);
     margin-bottom: 20px;
 }
+main h2{
+    text-align: center;
+    width: 80vw;
+    font-size: 1em;
+}
+main p{
+    font-size: 0.8em;
+}
 article h2{
     padding-bottom: 15px;
     color: var(--cor5);
@@ -103,7 +111,8 @@ h2.transp{
     margin-bottom: 20px;
 }
 section#noticias img{
-    width: 150px;
+    max-width: 190px;
+    width: 35vw;
     height: 100px;
     padding-left: 20px;
 }
@@ -130,41 +139,41 @@ p#jogo{
     font-size: 0.5em;
     font-weight: bolder;
     text-align: justify;
-    width: 210px;
+    width: 35vw;
     position: absolute;
-    top: 85px;
+    top: 75px;
 }
 p#baseball{
     font-size: 0.5em;
     font-weight: bolder;
     text-align: justify;
-    width: 210px;
+    width: 35vw;
     position: absolute;
-    top: 210px;
+    top: 195px;
 }
 p#ciclismo{
     font-size: 0.5em;
     font-weight: bolder;
     text-align: justify;
-    width: 215px;
+    width: 35vw;
     position: absolute;
-    top: 340px;
+    top: 310px;
 }
 p#natacao{
     font-size: 0.5em;
     position: absolute;
     font-weight: bolder;
-    bottom: 215px;
+    bottom: 185px;
     text-align: justify;
-    width: 215px;
+    width: 35vw;
 }
 p#corrida{
     font-size: 0.5em;
     position: absolute;
     font-weight: bolder;
-    bottom: 20px;
+    bottom: 10px;
     text-align: justify;
-    width: 215px;
+    width: 45vw;
 }
 /*Rodapé*/
 footer{
