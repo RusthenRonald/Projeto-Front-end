@@ -365,7 +365,7 @@ Grandes telas : acima de 1200px
     
     /*configurações das imagens*/
     section#noticias img{
-        width: 500px;
+        width: 600px;
         height: 410px;
         padding-left: 20px;
     }
@@ -448,5 +448,4 @@ Grandes telas : acima de 1200px
         text-decoration: none;
         font-variant: small-caps;
     }
-    
 }
