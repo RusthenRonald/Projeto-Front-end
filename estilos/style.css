@@ -129,7 +129,7 @@ img#corrida{
 
 }
 p.jogosp{
-    width: 190px;
+
     display: inline-block;
     padding-left: 10px;
 }
@@ -162,7 +162,7 @@ p#natacao{
     font-size: 0.5em;
     position: absolute;
     font-weight: bolder;
-    bottom: 185px;
+    bottom: 192px;
     text-align: justify;
     width: 35vw;
 }
